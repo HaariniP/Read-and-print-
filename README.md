@@ -9,3 +9,7 @@ public class ReadAndPrint {
         scanner.close();
     }
 }
+
+Output 
+Enter something: Hello, Java!
+You entered: Hello, Java!
